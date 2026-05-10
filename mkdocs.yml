@@ -1,0 +1,6 @@
+site_name: Hello Numba Docs
+theme:
+  name: material
+
+nav:
+  - Home: index.md
