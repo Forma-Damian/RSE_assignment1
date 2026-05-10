@@ -15,9 +15,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR-USERNAME/YOUR-REPO"
-Repository = "https://github.com/YOUR-USERNAME/YOUR-REPO.git"
-Issues = "https://github.com/YOUR-USERNAME/YOUR-REPO/issues"
+Homepage = "https://github.com/Forma-Damian/RSE_assignment1"
+Repository = "https://github.com/Forma-Damian/RSE_assignment1.git"
+Issues = "https://github.com/Forma-Damian/RSE_assignment1/issues"
 
 [project.optional-dependencies]
 test = ["pytest>=7.0", "pytest-cov>=4.0"]
